@@ -9,6 +9,7 @@ pandas = "==2.3.1"
 pydantic = "*"
 kagglehub = "*"
 jupyterlab = "*"
+python-dotenv = "==1.1.1"
 
 [dev-packages]
 
